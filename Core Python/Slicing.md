@@ -50,6 +50,7 @@ $28.00 Panavise Jr. - PV-201
 $34.95 PiTFT Mini Kit 320x240
 ```
 
+Assigning to slices: When the target of the assignment is a slice, the right-hand side must be an iterable object, even if it has just one item.
 
 ## References 
 1. [[An Array of Sequences]]
