@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d4ba342cff5aa16c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2c7c2a49f31e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df50bd800eae7e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slicing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slicing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a1eb905785d4d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f18a63c3a6f73fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4f02afaf54e162d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "242cdebfd491ef72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "387e68caa0900f1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fdadcd5611688d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab8e3dee202acb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d3fa041c6ac7fa8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slicing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Slicing"
+            }
+          },
+          {
+            "id": "e98a597c70d7e1c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Slicing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Slicing"
+            }
+          },
+          {
+            "id": "2c71c8c329c34718",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6dc2009d7a2b7459",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Slicing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Slicing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a4f02afaf54e162d",
+  "lastOpenFiles": [
+    "Pattern Matching with Sequences.md",
+    "Slicing.md",
+    "An Array of Sequences.md",
+    "Unpacking sequences and iterables.md",
+    "Tuples as immutable Lists.md",
+    "Tuples as Records.md",
+    "Generator Expressions.md",
+    "Core Python.md",
+    "List Comprehensions.md",
+    "Overview of Built-In Sequences.md",
+    "Data Structures.md",
+    "Templates/Map of Content.md",
+    "Templates/Note Template.md",
+    "Special Methods.md",
+    "Overview of Special Method.md",
+    "Collection API.md",
+    "Boolean Value of a Custom Type.md",
+    "String Representation.md",
+    "Emulating Numeric Types.md",
+    "Templates",
+    "Welcome.md"
+  ]
+}
